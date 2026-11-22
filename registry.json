@@ -1,0 +1,160 @@
+{
+  "updated_at": "2026-11-22T13:12:22.361Z",
+  "count": 8,
+  "items": [
+    {
+      "id": "official.dev-tools",
+      "name": "开发者工具箱",
+      "author": "风野工作室",
+      "desc": "",
+      "pkg": "/pkg/official.dev-tools.fengye",
+      "size": 18724,
+      "published_at": "2026-11-22T12:40:15.102Z"
+    },
+    {
+      "id": "official.dsh-enhance",
+      "name": "DSH 增强",
+      "author": "风野工作室",
+      "desc": "把内置 AI 拉到 DSH 级体验：会话记忆持久化、多步任务链（动作轮 3→8）、工具调用全量（装/删/跑/查/收录）、系统提示词工程化扩展段。装上即生效，卸载即回退。",
+      "pkg": "/pkg/official.dsh-enhance.fengye",
+      "size": 6272,
+      "published_at": "2026-11-22T05:38:24.099Z"
+    },
+    {
+      "id": "official.root-manager",
+      "name": "Root 管理器",
+      "author": "风野工作室",
+      "desc": "查得出 root、藏得住 root，刷机路上替你把每条命令看紧的贴身军师。",
+      "pkg": "/pkg/official.root-manager.fengye",
+      "size": 78125,
+      "published_at": "2026-11-22T05:38:20.203Z"
+    },
+    {
+      "id": "official.pager",
+      "name": "分页管理",
+      "author": "风野工作室",
+      "desc": "底栏 tab 多页化：每页数量、插件 tab 分页归属、重要分区成员与排序，保存即生效。",
+      "pkg": "/pkg/official.pager.fengye",
+      "size": 23483,
+      "published_at": "2026-11-22T05:38:14.678Z"
+    },
+    {
+      "id": "official.appmaker",
+      "name": "应用打包器",
+      "author": "风野工作室",
+      "desc": "勾选已装插件，打成一个独立应用：插件底层 + 所选插件 + 返回主站页 + 防逆向加密。",
+      "pkg": "/pkg/official.appmaker.fengye",
+      "size": 30691,
+      "published_at": "2026-11-22T05:38:10.123Z"
+    },
+    {
+      "id": "official.free-hub",
+      "name": "免费算力整合",
+      "author": "风野工作室",
+      "desc": "把散落的免费算力平台整合成一页：签到攒额度、推理 API 直连、自家显卡挂大脑池。配置驱动+实测按钮，接口变了改配置不改代码。",
+      "pkg": "/pkg/official.free-hub.fengye",
+      "size": 44653,
+      "published_at": "2026-11-22T05:38:06.840Z"
+    },
+    {
+      "id": "official.submit",
+      "name": "上架收录",
+      "author": "风野工作室",
+      "desc": "收录向导：原始脚本直传官网（服务端打包）→ 专属链接 + 提交码 + 邮件模板；「我的申请」凭链接+密码查进度/补传。",
+      "pkg": "/pkg/official.submit.fengye",
+      "size": 23924,
+      "published_at": "2026-11-22T05:38:01.976Z"
+    },
+    {
+      "id": "official.ai",
+      "name": "风野 AI",
+      "author": "风野工作室",
+      "desc": "内置 AI 助手：免费大脑池（keyless 下载即用）+ 流式对话 + 动作确认卡。装上即出现在「AI」标签页。",
+      "pkg": "/pkg/official.ai.fengye",
+      "size": 25467,
+      "published_at": "2026-11-22T05:37:58.350Z"
+    }
+  ],
+  "plugins": [
+    {
+      "id": "official.dev-tools",
+      "name": "开发者工具箱",
+      "desc": "",
+      "author": "风野工作室",
+      "source": {
+        "type": "url",
+        "url": "https://preview.886957.xyz/pkg/official.dev-tools.fengye"
+      }
+    },
+    {
+      "id": "official.dsh-enhance",
+      "name": "DSH 增强",
+      "desc": "把内置 AI 拉到 DSH 级体验：会话记忆持久化、多步任务链（动作轮 3→8）、工具调用全量（装/删/跑/查/收录）、系统提示词工程化扩展段。装上即生效，卸载即回退。",
+      "author": "风野工作室",
+      "source": {
+        "type": "url",
+        "url": "https://preview.886957.xyz/pkg/official.dsh-enhance.fengye"
+      }
+    },
+    {
+      "id": "official.root-manager",
+      "name": "Root 管理器",
+      "desc": "查得出 root、藏得住 root，刷机路上替你把每条命令看紧的贴身军师。",
+      "author": "风野工作室",
+      "source": {
+        "type": "url",
+        "url": "https://preview.886957.xyz/pkg/official.root-manager.fengye"
+      }
+    },
+    {
+      "id": "official.pager",
+      "name": "分页管理",
+      "desc": "底栏 tab 多页化：每页数量、插件 tab 分页归属、重要分区成员与排序，保存即生效。",
+      "author": "风野工作室",
+      "source": {
+        "type": "url",
+        "url": "https://preview.886957.xyz/pkg/official.pager.fengye"
+      }
+    },
+    {
+      "id": "official.appmaker",
+      "name": "应用打包器",
+      "desc": "勾选已装插件，打成一个独立应用：插件底层 + 所选插件 + 返回主站页 + 防逆向加密。",
+      "author": "风野工作室",
+      "source": {
+        "type": "url",
+        "url": "https://preview.886957.xyz/pkg/official.appmaker.fengye"
+      }
+    },
+    {
+      "id": "official.free-hub",
+      "name": "免费算力整合",
+      "desc": "把散落的免费算力平台整合成一页：签到攒额度、推理 API 直连、自家显卡挂大脑池。配置驱动+实测按钮，接口变了改配置不改代码。",
+      "author": "风野工作室",
+      "source": {
+        "type": "url",
+        "url": "https://preview.886957.xyz/pkg/official.free-hub.fengye"
+      }
+    },
+    {
+      "id": "official.submit",
+      "name": "上架收录",
+      "desc": "收录向导：原始脚本直传官网（服务端打包）→ 专属链接 + 提交码 + 邮件模板；「我的申请」凭链接+密码查进度/补传。",
+      "author": "风野工作室",
+      "source": {
+        "type": "url",
+        "url": "https://preview.886957.xyz/pkg/official.submit.fengye"
+      }
+    },
+    {
+      "id": "official.ai",
+      "name": "风野 AI",
+      "desc": "内置 AI 助手：免费大脑池（keyless 下载即用）+ 流式对话 + 动作确认卡。装上即出现在「AI」标签页。",
+      "author": "风野工作室",
+      "source": {
+        "type": "url",
+        "url": "https://preview.886957.xyz/pkg/official.ai.fengye"
+      }
+    }
+  ]
+}
